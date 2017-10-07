@@ -40,7 +40,7 @@ var phraseArray = [
     "Koufax is a good egg, he was nice to that kid. But he fights like a girl.",
     "I can't believe it... Bruce Willis is a ghost!",
     "He has lung problems cause he smoked too much turtle weed, which is bad for you",
-    "Is @JLin7 the next Jordan? #NBA #Nets",
+    "Is JLin7 the next Jordan? #NBA #Nets",
     "I got wicked bad frost bite when I was in the scouts",
     "You're wrong Colonel Sanders",
     "when did Ben Franklin invent electricity?",
@@ -67,7 +67,7 @@ var phraseArray = [
     "Golf requires goofy pants and a fat ass",
     "Alcohol equals puke equals smelly equals nobody likes you ",
     "Alligators are ornery 'cause of their Medula Oblongata",
-    "@PopeyesChicken is fkn awesome!",
+    "PopeyesChicken is freakin awesome!",
     "what you lookin' at, swan?",
     "My mama says alligators are ornery cause they got all them teeth and no toothbrush"
 ]
