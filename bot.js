@@ -10,6 +10,7 @@ var Bot = new TwitterBot ({
     access_token_secret: process.env.BOT_ACCESS_TOKEN_SECRET
 });
 
+var TweetUTSA = function () {
 //instatiating array 
 var phraseArray = [
     "You Eat Pieces of S-T for Breakfast?",
@@ -83,3 +84,9 @@ chooseRandom(phraseArray);
 
 //node-twitterbot function to tweet
 Bot.tweet(phrase);
+
+}
+
+//calling function
+TweetUTSA()
+setInterval(TweetUTSA, 14400000)
