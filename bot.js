@@ -80,7 +80,7 @@ function chooseRandom(myArray) {
 
 //saving randomized function as phrase
 var phrase = chooseRandom(phraseArray) + ", " + 
-chooseRandom(phraseArray) + " #Sandler @Stop_Pre " ;
+chooseRandom(phraseArray) + " #AdamSandler #BirdsUp @Stop_Pre" ;
 
 //node-twitterbot function to tweet
 Bot.tweet(phrase);
